@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darkskullz9
 - 👀 I’m interested in Web Developing.
-- 🌱 I’m currently learning Web Developer's job
+- 🌱 I’m currently learning Web Developer's job.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
