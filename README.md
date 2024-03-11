@@ -2,7 +2,7 @@
 - 👀 Je suis passionné par la créationde sites web, la musique, les jeux vidéo et plus encore.
 - 🌱 Je suis en train d'apprendre le métier de développeur FullStack en alternance.
 - 💞️ Je cherche à travailler sur Paris, Toulouse ou Full Remote
-- 📫 Comment me joindre : 
+- 📫 Comment me joindre : <br/>
   Email : praucasteven@gmail.com
   LinkedIn : linkedin.com/in/steven-prauca
 ______
