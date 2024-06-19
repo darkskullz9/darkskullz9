@@ -1,4 +1,4 @@
-- # 👋 Salut, moi c'est Steven a.k.a. @darkskullz9
+- # 👋 Salut, moi c'est Steven a.k.a. darkskullz9
 - 👀 Je suis passionné par la création de sites web, la musique, les jeux vidéo et plus encore.
 - 🌱 Je suis en train d'apprendre le métier de développeur FullStack en alternance.
 - 💞️ Je cherche à travailler sur Paris, Toulouse ou Full Remote
