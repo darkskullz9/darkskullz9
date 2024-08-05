@@ -7,9 +7,9 @@
   LinkedIn: https://linkedin.com/in/steven-prauca
 ______
 - # 👋 Hi, I'm Steven a.k.a. @darkskullz9
-- 👀 I'm into web development, music, video games and more.
+- 👀 I'm into web development, music, video games, and more.
 - 🌱 I'm currently learning the FullStack Developer job in work-study.
-- 💞️ I'm looking to work on Paris, Toulouse or Full Remote.
+- 💞️ I want to work on Paris, Toulouse, or Full Remote.
 - 📫 How to reach me: <br/>
   Email: praucasteven@gmail.com <br/>
   LinkedIn: https://linkedin.com/in/steven-prauca
