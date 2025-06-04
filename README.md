@@ -1,4 +1,4 @@
-# 👋 Hi, it's Steven a.k.a. Darkskullz9
+# 👋 Hi, it's Steven
 - 👀 I'm into web development, music, video games, and more.
 - 🌱 I'm currently learning the FullStack Developer job in work-study.
 - 💞️ I want to work in Paris, Toulouse, or Full Remote.
